@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+CppProperties.json
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Build outputs
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.ilk
+*.pdb
+*.lib
+*.dll
+
+# EasyX library (user must install separately)
+EasyX/
